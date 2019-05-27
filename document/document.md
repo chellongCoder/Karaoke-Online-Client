@@ -15,16 +15,16 @@ OS X & Linux & Window:
 
 ### Server
 ```sh
-git clone 
-cd 
+git clone https://github.com/chellongCoder/Karaoke-Online-Server
+cd Karaoke-Online-Server
 npm install 
 npm start
 ```
 
 ### Client
 ```sh
-git clone 
-cd 
+git clone https://github.com/chellongCoder/Karaoke-Online-Client
+cd Karaoke-Online-Client
 npm install 
 npm start
 ```
